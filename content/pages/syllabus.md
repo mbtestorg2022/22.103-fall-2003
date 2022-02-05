@@ -4,20 +4,129 @@ title: Syllabus
 uid: 689b0262-1d86-5e5c-40d8-648ee40e20c9
 ---
 
-| WEEK # | TOPICS |
-| --- | --- |
-| 1 | Overview |
-| 2 | Transport Coefficients - Green Kubo Relations |
-| 3 | Density and Self Correlations, Botlzmann Equation |
-| 4 | Navier-Stokes Equations |
-| 5 | Collisions and Transport Models |
-| 6 | Fluid Transport - Molecular Dynamics Simulations |
-| 7 | Radiation Transport - Monte Carlo Methods |
-| 8 | Linear Response Theory |
-| 9 | Micro/Macro Coupling (Multiscale Modeling) |
-| 10 | Solids and Soft Matter |
-| 11-14 | Special Topics to Illustrate Diverse Applications -- Subject to Class Interest |
-| 15 | Class Presentation 
+{{< tableopen >}}
+{{< theadopen >}}
+{{< tropen >}}
+{{< thopen >}}
+WEEK #
+{{< thclose >}}
+{{< thopen >}}
+TOPICS
+{{< thclose >}}
+
+{{< trclose >}}
+
+{{< theadclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+1
+{{< tdclose >}}
+{{< tdopen >}}
+Overview
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+2
+{{< tdclose >}}
+{{< tdopen >}}
+Transport Coefficients - Green Kubo Relations
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+3
+{{< tdclose >}}
+{{< tdopen >}}
+Density and Self Correlations, Botlzmann Equation
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+4
+{{< tdclose >}}
+{{< tdopen >}}
+Navier-Stokes Equations
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+5
+{{< tdclose >}}
+{{< tdopen >}}
+Collisions and Transport Models
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+6
+{{< tdclose >}}
+{{< tdopen >}}
+Fluid Transport - Molecular Dynamics Simulations
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+7
+{{< tdclose >}}
+{{< tdopen >}}
+Radiation Transport - Monte Carlo Methods
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+8
+{{< tdclose >}}
+{{< tdopen >}}
+Linear Response Theory
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+9
+{{< tdclose >}}
+{{< tdopen >}}
+Micro/Macro Coupling (Multiscale Modeling)
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+10
+{{< tdclose >}}
+{{< tdopen >}}
+Solids and Soft Matter
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+11-14
+{{< tdclose >}}
+{{< tdopen >}}
+Special Topics to Illustrate Diverse Applications -- Subject to Class Interest
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+15
+{{< tdclose >}}
+{{< tdopen >}}
+Class Presentation
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}
 
 The course will be taught through class lectures. Written [lecture notes]({{< baseurl >}}/pages/lecture-notes) will be posted on the server.
 
